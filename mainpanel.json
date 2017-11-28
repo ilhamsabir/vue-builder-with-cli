@@ -1,0 +1,21 @@
+[{
+		"name": "Elements",
+		"initial": "panel-elements",
+		"icon": "managix-icon-four-black-squares"
+	},
+	{
+		"name": "Layout",
+		"initial": "panel-layout",
+		"icon": "managix-icon-layers"
+	},
+	{
+		"name": "Tracking",
+		"initial": "panel-tracking",
+		"icon": "managix-icon-tracker"
+	},
+	{
+		"name": "Setting",
+		"initial": "panel-settings",
+		"icon": "managix-icon-controls"
+	}
+]

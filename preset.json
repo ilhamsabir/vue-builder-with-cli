@@ -1,0 +1,13 @@
+[{
+		"col": 1,
+		"classes": "col-sm-12"
+	},
+	{
+		"col": 2,
+		"classes": "col-sm-6"
+	},
+	{
+		"col": 3,
+		"classes": "col-sm-4"
+	}
+]

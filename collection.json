@@ -1,0 +1,151 @@
+[{
+	"id": 467,
+	"name": "aasdfghkl",
+	"published": 1,
+	"public": 0,
+	"pixel_id": null,
+	"google_id": null,
+	"type": "page",
+	"form_redirect": null,
+	"created_at": "2017-11-20 06:36:26",
+	"updated_at": "2017-11-20 06:36:26",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 467
+	}
+}, {
+	"id": 465,
+	"name": "tester habis update",
+	"published": 1,
+	"public": 0,
+	"pixel_id": null,
+	"google_id": null,
+	"type": "page",
+	"form_redirect": null,
+	"created_at": "2017-11-06 07:45:54",
+	"updated_at": "2017-11-06 07:45:54",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 465
+	}
+}, {
+	"id": 448,
+	"name": "nazi",
+	"published": 1,
+	"public": 0,
+	"pixel_id": null,
+	"google_id": null,
+	"type": "",
+	"form_redirect": null,
+	"created_at": "2017-10-16 09:03:36",
+	"updated_at": "2017-10-25 11:12:35",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 448
+	}
+}, {
+	"id": 447,
+	"name": "tester-bangs",
+	"published": 1,
+	"public": 0,
+	"pixel_id": null,
+	"google_id": null,
+	"type": "page",
+	"form_redirect": null,
+	"created_at": "2017-10-11 11:26:33",
+	"updated_at": "2017-10-25 10:57:00",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 447
+	}
+}, {
+	"id": 446,
+	"name": "hanyaada",
+	"published": 1,
+	"public": 0,
+	"pixel_id": "1803469396604071",
+	"google_id": null,
+	"type": "page",
+	"form_redirect": null,
+	"created_at": "2017-10-10 10:29:45",
+	"updated_at": "2017-11-06 06:41:17",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 446
+	}
+}, {
+	"id": 444,
+	"name": "coba lagi gan gan",
+	"published": 1,
+	"public": 0,
+	"pixel_id": "1487995787919835",
+	"google_id": null,
+	"type": "page",
+	"form_redirect": "",
+	"created_at": "2017-09-18 10:42:46",
+	"updated_at": "2017-11-08 04:55:36",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 444
+	}
+}, {
+	"id": 421,
+	"name": "coba",
+	"published": 1,
+	"public": 0,
+	"pixel_id": "1803469396604071",
+	"google_id": null,
+	"type": "form",
+	"form_redirect": "https:\/\/developer.mozilla.org\/id\/docs\/Web\/CSS\/white-space",
+	"created_at": "2017-08-01 18:09:19",
+	"updated_at": "2017-10-27 07:38:25",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 421
+	}
+}, {
+	"id": 413,
+	"name": "step 2b",
+	"published": 1,
+	"public": 0,
+	"pixel_id": null,
+	"google_id": null,
+	"type": "page",
+	"form_redirect": "",
+	"created_at": "2017-07-31 05:36:21",
+	"updated_at": "2017-10-13 06:57:57",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 413
+	}
+}, {
+	"id": 411,
+	"name": "resto",
+	"published": 1,
+	"public": 0,
+	"pixel_id": null,
+	"google_id": null,
+	"type": "page",
+	"form_redirect": "",
+	"created_at": "2017-07-26 11:10:51",
+	"updated_at": "2017-10-25 11:17:31",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 411
+	}
+}, {
+	"id": 396,
+	"name": "baru-coy-coba-ajah",
+	"published": 1,
+	"public": 0,
+	"pixel_id": "1745872595730384",
+	"google_id": null,
+	"type": "page",
+	"form_redirect": "",
+	"created_at": "2017-07-14 10:11:35",
+	"updated_at": "2017-10-13 11:44:27",
+	"pivot": {
+		"user_id": 57,
+		"project_id": 396
+	}
+}]

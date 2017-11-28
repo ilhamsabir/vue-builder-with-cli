@@ -1,0 +1,17 @@
+[
+  {
+	"name": "Paragraph",
+	"initial": "elParagraph" ,
+	"icon": "fa fa-paragraph"
+},
+{
+	"name": "Headline",
+	"initial": "elHeading",
+	"icon": "fa fa-header"
+},
+{
+	"name": "Button",
+	"initial": "elButton" ,
+	"icon": "fa fa-link"
+}
+]
